@@ -490,33 +490,36 @@ body {
   body .fa {
     margin-bottom: 1.5em; }
   /* line 102, site.css.scss */
+  body .port-links {
+    text-decoration: none; }
+  /* line 105, site.css.scss */
   body .assembly-point {
     font-family: 'Bitter', serif;
     background-color: #3CC47C;
     color: white;
     font-size: 3em;
     border-radius: 4px; }
-  /* line 109, site.css.scss */
+  /* line 112, site.css.scss */
   body .spacebook {
     font-family: 'Baloo Tamma', cursive;
     background-color: #001f3f;
     color: #0074D9;
     font-size: 3em;
     border-radius: 4px; }
-  /* line 116, site.css.scss */
+  /* line 119, site.css.scss */
   body .spokeup_img {
     max-height: 10em; }
-  /* line 119, site.css.scss */
+  /* line 122, site.css.scss */
   body .contact {
     padding-left: 0;
     list-style-type: none; }
-  /* line 123, site.css.scss */
+  /* line 126, site.css.scss */
   body .contact > li {
     display: inline-block;
     position: relative; }
-  /* line 127, site.css.scss */
+  /* line 130, site.css.scss */
   body .fa {
     color: black; }
-  /* line 130, site.css.scss */
+  /* line 133, site.css.scss */
   body .fa:hover {
     color: yellow; }
